@@ -6,5 +6,7 @@ Test.java includes the test I run.
 test.csv is the rules I used.
 
 
+For the implementation, I used a list to store all the rules. For each new record, I check whether the rule exists in the list.
+
 Future work:
 If I have more time, I will improve the speed of search. I will come up with a faster search algorithm to search for the certain rule in the file.
